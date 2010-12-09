@@ -6,7 +6,7 @@ group :default do
   gem 'bson',              '>= 1.1.1'
   gem "activesupport",     '~> 3.0.1'
   gem "require_all",       '~> 1.2.0' 
-  gem "sugar-high",        '>= 0.3.0'        
+  gem "sugar-high",        '>= 0.3.1'        
   gem "roles_generic",     '>= 0.3.2'        
 end
 
